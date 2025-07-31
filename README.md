@@ -1,40 +1,40 @@
 # 👨‍💻 Codot Team
 
-**Innovative Software Solutions | Backend, Automation, AI Integration**
+**Innovatsion Dasturiy Ta’minot | Backend, Avtomatlashtirish, Sun’iy intellekt integratsiyasi**
 
 ---
 
-Welcome to **Codot Team** — a software development team dedicated to building modern, efficient, and scalable digital solutions. We specialize in **backend systems**, **automation tools**, and **AI-based integrations** to empower businesses and users with reliable and high-performance technologies.
+**Codot Team** — bu zamonaviy, samarali va kengaytiriladigan raqamli yechimlarni ishlab chiqishga ixtisoslashgan dasturchilar jamoasi. Bizning asosiy yo‘nalishlarimiz — **backend dasturlash**, **avtomatlashtirish tizimlari**, hamda **AI (sun’iy intellekt) asosidagi xizmatlar**.
 
 ---
 
-## 🔧 What We Do
+## 🛠 Biz nimalar bilan shug‘ullanamiz?
 
-- ⚙️ **Backend Development**: Go (Golang), Java, Python  
-- 🧠 **AI & Chatbot Integration**: Natural Language Processing (NLP), Telegram/WhatsApp bots  
-- 🏗 **System Design & Architecture**  
-- 💼 **Enterprise Solutions**: Odoo customization, ERP integrations  
-- 🌐 **Web Applications & APIs**  
-
----
-
-## 💡 Our Mission
-
-> To deliver clean, maintainable, and production-ready software that solves real-world problems.
+- ⚙️ **Backend dasturlash**: Go (Golang), Java, Python
+- 🧠 **AI va chatbot integratsiyasi**: Matnni tushunish, Telegram/WhatsApp botlar
+- 🏗 **Tizim arxitekturasi va dizayni**
+- 💼 **Korporativ xizmatlar**: Odoo modullari, ERP tizimlari integratsiyasi
+- 🌐 **Web ilovalar va API’lar ishlab chiqish**
 
 ---
 
-## 🚀 Notable Projects
+## 🎯 Missiyamiz
 
-| Project            | Description                                 | Tech Stack            |
-|--------------------|---------------------------------------------|------------------------|
-| `VoiceTranslator`   | Real-time voice translator with AI backend  | Go, Whisper, WebSocket |
-| `Study Helper`         | Custom Telegram bot with group automation   | Python, PostgreSQL     |
-| `Express Hub`        | Real-time logistic app         | Odoo, XML, JS          |
+> Real muammolarni hal qiluvchi, toza, samarali va ishlab chiqarishga tayyor dasturiy mahsulotlar yaratish.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Asosiy loyihalarimiz
+
+| Loyiha nomi        | Tavsifi                                        | Texnologiyalar             |
+|--------------------|------------------------------------------------|-----------------------------|
+| `VoiceTranslate`   | Real vaqtli ovozli tarjimon (AI asosida)       | Go, Whisper, WebSocket      |
+| `Study Helper`         | Telegram guruhi uchun avtomatlashtirilgan bot  | Python, PostgreSQL          |
+| `Express Hub`        | Real vaqt logistika tizimi               | Odoo, XML, JS               |
+
+---
+
+## 🧰 Texnologiyalar
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -45,20 +45,20 @@ Welcome to **Codot Team** — a software development team dedicated to building 
 
 ---
 
-## 📊 Stats
+## 📊 Statistika
 
-![Codot Team GitHub stats](https://github-readme-stats.vercel.app/api?username=codot-team&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codot-team&layout=compact)
+![Codot Team GitHub statistikasi](https://github-readme-stats.vercel.app/api?username=codot-team&show_icons=true&theme=default)
+![Eng ko‘p ishlatilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=codot-team&layout=compact)
 
 ---
 
-## 📫 Contact
+## 📞 Aloqa
 
-- 🌐 Website: [codot.uz](https://codot.uz) *(or your future domain)*
+- 🌐 Vebsayt: [codot.uz](https://codot.uz) *(agar mavjud bo‘lsa)*
 - 📧 Email: info@codot.uz
 - 📱 Telegram: [@codot_team](https://t.me/nimadir_321)
 - 🐙 GitHub: [github.com/codot-team](https://github.com/codot-team)
 
 ---
 
-_© 2025 Codot Team — All rights reserved._
+_© 2025 Codot Team — Barcha huquqlar himoyalangan._
